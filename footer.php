@@ -15,8 +15,8 @@
 		<?php
 				printf(
 					__( 'Theme: %1$s by %2$s.', 'p3' ),
-					'<a href="https://wordpress.com/themes/p3">P3</a>',
-					'<a href="https://wordpress.com/themes/" rel="designer">WordPress.com</a>'
+					'<a href="https://github.com/redpandaventures/p3">P3</a>',
+					'<a href="https://redpandaventures.com" rel="designer">Red Panda Ventures</a>'
 				);
 			?>
 	</p>
