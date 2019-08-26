@@ -89,3 +89,4 @@ assets/*
 
 # Language files
 *.pot
+.DS_Store
